@@ -8,6 +8,7 @@
     .page-header {
         display: flex;
         justify-content: flex-end;
+        background-color: rgba(0,0,0,.7);
         padding: 1rem;
         width: 100%;
         position: fixed;

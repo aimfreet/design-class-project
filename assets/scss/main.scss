@@ -1,0 +1,23 @@
+.article-img {
+    padding: 2rem 0;
+    @media screen and (min-width:1024px) {
+        max-width: 350px;
+        padding: 2rem;
+        display: inline;
+        &.left {
+            float: left;
+        }
+        &.right {
+            float: right;
+        }
+    }
+    &-text {
+        font-size: 1rem;
+        line-height: 1.4rem;
+        margin-top: 1rem;
+        color: #535353;
+    }
+}
+figure {
+    margin: 0;
+}

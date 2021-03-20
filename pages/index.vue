@@ -27,7 +27,10 @@ export default {
     position: relative;
     background-color: #fff;
     padding: 1.5rem;
-    margin-top: calc(75vh - 150px);
+    margin-top: calc(100vh);
+    @media screen and (min-width: 1024px) {
+      margin-top: calc(90vh - 150px);
+    }
   }
 }
 </style>
