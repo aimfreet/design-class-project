@@ -2,7 +2,7 @@
     <div class="home-page">
       <HomeHero />
       <div class="container-lg">
-        <div class="home-page__content shadow-depth-1">
+        <div class="home-page__content page-text shadow-depth-1">
           <nuxt-content :document="page" />
         </div>
       </div>
@@ -27,9 +27,9 @@ export default {
     position: relative;
     background-color: #fff;
     padding: 1.5rem;
-    margin-top: calc(100vh);
+    margin-top: calc(90vh);
     @media screen and (min-width: 1024px) {
-      margin-top: calc(90vh - 150px);
+      margin-top: calc(100vh - 100px);
     }
   }
 }

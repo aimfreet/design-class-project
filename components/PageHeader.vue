@@ -9,7 +9,7 @@
         display: flex;
         justify-content: flex-end;
         background-color: rgba(0,0,0,.7);
-        padding: 1rem;
+        padding: 1rem 2rem;
         width: 100%;
         position: fixed;
         top: 0;

@@ -2,11 +2,11 @@
     <div class="home-hero">
         <div class="home-hero__image" />
         <div class="home-hero__overlay" />
-        <div class="home-hero__content text-white text-shadow">
+        <div class="home-hero__content">
             <h1>Lorem Ipsum Dolor Amet</h1>
             <p> Nulla aliquet enim tortor at auctor urna nunc id cursus.
             Tellus pellentesque eu tincidunt tortor aliquam nulla. Porta non pulvinar neque laoreet suspendisse.</p>
-            <p class="margin-top-auto">Written by Aimee Maroney</p>
+            <p class="margin-top-4">Written by Aimee Maroney</p>
         </div>
     </div>
 </template>
@@ -16,9 +16,9 @@
         background-color: #8D9299;
         display: flex;
         flex-direction: column;
-        justify-content: flex-start;
+        justify-content: center;
         width: 100%;
-        height: 100vh;
+        height: 90vh;
         position: absolute;
         top: 0;
         @media screen and (min-width: 1024px) {
@@ -27,7 +27,7 @@
         &__image {
             width: 100%;
             height: 100%;
-            background-image: url('https://tankgirl-storage.s3.amazonaws.com/codepen-images/roskilde-museum-ship.jpeg');
+            background-image: url('https://tankgirl-storage.s3.amazonaws.com/codepen-images/IconBanner.svg');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center center;
@@ -38,7 +38,7 @@
         &__overlay {
             width: 100%;
             height: 100%;
-            background-color: rgba(0,0,0,.5);
+            background-color: rgba(0,0,0,.1);
             position: absolute;
             top: 5;
             z-index: 0;
@@ -50,10 +50,12 @@
             top: 9;
             padding: 3rem;
             margin-top: 100px;
-            height: 100%;
+            background: rgba(255,255,255,.9);
+            margin-left: 1rem;
+            margin-right: 1rem;
             @media screen and (min-width: 1024px){
                 max-width: 50%;
-                height: 400px;
+                margin-left: 2rem;
             }
         }
     }
