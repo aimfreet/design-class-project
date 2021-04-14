@@ -3,10 +3,9 @@
         <div class="home-hero__image" />
         <div class="home-hero__overlay" />
         <div class="home-hero__content">
-            <h1>Lorem Ipsum Dolor Amet</h1>
-            <p> Nulla aliquet enim tortor at auctor urna nunc id cursus.
-            Tellus pellentesque eu tincidunt tortor aliquam nulla. Porta non pulvinar neque laoreet suspendisse.</p>
-            <p class="margin-top-4">Written by Aimee Maroney</p>
+            <h1>Icons &amp; Emojis <br> The New Hieroglyphics</h1>
+            <p class="is-bold">What can ancient hieroglyphics tell us about the future of our communication?</p>
+            <p class="margin-top-4 font-size-9">Written by Aimee Maroney</p>
         </div>
     </div>
 </template>
@@ -18,7 +17,7 @@
         flex-direction: column;
         justify-content: center;
         width: 100%;
-        height: 90vh;
+        height: 100vh;
         position: absolute;
         top: 0;
         @media screen and (min-width: 1024px) {
@@ -29,6 +28,7 @@
             height: 100%;
             background-image: url('https://tankgirl-storage.s3.amazonaws.com/codepen-images/IconBanner.svg');
             background-repeat: no-repeat;
+            background-color: #000;
             background-size: cover;
             background-position: center center;
             position: absolute;
@@ -38,7 +38,7 @@
         &__overlay {
             width: 100%;
             height: 100%;
-            background-color: rgba(0,0,0,.1);
+            background-color: rgba(0,0,0,.25);
             position: absolute;
             top: 5;
             z-index: 0;
@@ -48,14 +48,15 @@
             flex-direction: column;
             position: relative;
             top: 9;
-            padding: 3rem;
+            padding: 1.5rem;
             margin-top: 100px;
-            background: rgba(255,255,255,.9);
-            margin-left: 1rem;
-            margin-right: 1rem;
+            color: #fff;
+            margin-left: 1.5rem;
+            margin-right: 1.5rem;
             @media screen and (min-width: 1024px){
                 max-width: 50%;
                 margin-left: 2rem;
+                padding: 3rem;
             }
         }
     }

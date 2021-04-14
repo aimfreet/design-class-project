@@ -1,7 +1,7 @@
 <template>
     <div class="home-page">
       <HomeHero />
-      <div class="container-lg">
+      <div class="container-xl">
         <div class="home-page__content page-text shadow-depth-1">
           <nuxt-content :document="page" />
         </div>
@@ -30,6 +30,7 @@ export default {
     margin-top: calc(90vh);
     @media screen and (min-width: 1024px) {
       margin-top: calc(100vh - 100px);
+      padding: 2.5rem;
     }
   }
 }

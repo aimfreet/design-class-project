@@ -21,3 +21,25 @@
 figure {
     margin: 0;
 }
+
+.illuminated-letter {
+    font-size: 56px;
+    display: flex;
+    align-items: center;
+    float: left;
+    padding: 22px 15px;
+    border: 2px solid #efefef;
+    margin-right: 14px;
+    margin-bottom: 4px;
+    margin-top: 8px;
+}
+
+hr {
+    margin: 48px auto;
+    max-width: 200px;
+}
+
+.nuxt-content-container {
+    max-width: 68em;
+    margin: 0 auto;
+}
