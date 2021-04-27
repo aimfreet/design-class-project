@@ -3,8 +3,8 @@
         <div class="home-hero__image" />
         <div class="home-hero__overlay" />
         <div class="home-hero__content">
-            <h1>Icons &amp; Emojis <br> The New Hieroglyphics</h1>
-            <p class="is-bold">What can ancient hieroglyphics tell us about the future of our communication?</p>
+            <h1 class="home-hero__heading">Icons &amp; Emojis <br> The New Hieroglyphics</h1>
+            <p class="home-hero__copy">What can ancient hieroglyphics tell us about the future of our communication?</p>
             <p class="margin-top-4 font-size-9">Written by Aimee Maroney</p>
         </div>
     </div>
@@ -23,10 +23,23 @@
         @media screen and (min-width: 1024px) {
             justify-content: center;
         }
+        &__heading {
+            @media screen and (min-width: 1024px) {
+                font-size: 72px;
+                line-height: 84px;
+            }
+        }
+        &__copy {
+            @media screen and (min-width: 1024px) {
+                font-size: 28px;
+                line-height: 36px;
+                font-weight: bold;
+            }
+        }
         &__image {
             width: 100%;
             height: 100%;
-            background-image: url('https://tankgirl-storage.s3.amazonaws.com/codepen-images/IconBanner.svg');
+            background-image: url('https://tankgirl-storage.s3.amazonaws.com/codepen-images/IconBanner-blue.svg');
             background-repeat: no-repeat;
             background-color: #000;
             background-size: cover;
@@ -38,7 +51,7 @@
         &__overlay {
             width: 100%;
             height: 100%;
-            background-color: rgba(0,0,0,.25);
+            background-color: rgba(0,0,0,.45);
             position: absolute;
             top: 5;
             z-index: 0;
@@ -53,6 +66,7 @@
             color: #fff;
             margin-left: 1.5rem;
             margin-right: 1.5rem;
+            text-shadow: 0.1rem 0.1rem 0 rgb(0 0 0 / 15%), 0.1rem -0.1rem 0 rgb(0 0 0 / 15%), -0.1rem 0.1rem 0 rgb(0 0 0 / 15%), -0.1rem -0.1rem 0 rgb(0 0 0 / 15%);
             @media screen and (min-width: 1024px){
                 max-width: 50%;
                 margin-left: 2rem;

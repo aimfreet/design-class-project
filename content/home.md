@@ -12,7 +12,7 @@ This is common practice in modern web design, and as I see the ever-growing prev
 This indeed, is an accurate observation. There are many similarities between these ancient communication methods and today. In fact, we may be able to gain clues to what our future communication may look like by examining the sign and symbol use of the past.
 
 <hr>
-<h2>Semiotics - Icon, Index, Symbol</h2>
+<h2>Icon, Index, Symbol</h2>
 
 Culturally there are very large differences between the civilizations of ancient Egypt and Central America, and collectively those are all quite different from the global internet communities of today – but perhaps, if we examine the signs and symbols of yesterday and today through the lens of semiotics – we may gain some valuable insight into the similarities they all share.
 
