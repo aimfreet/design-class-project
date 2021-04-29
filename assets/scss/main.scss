@@ -6,6 +6,7 @@
         display: inline;
         &.left {
             float: left;
+            padding-left: 0;
         }
         &.right {
             float: right;
@@ -16,6 +17,10 @@
         line-height: 1.4rem;
         margin-top: 1rem;
         color: #535353;
+    }
+    &-center {
+        max-width: 450px;
+        margin: 0 auto;
     }
 }
 figure {
