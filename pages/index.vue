@@ -30,7 +30,7 @@ export default {
     margin-top: calc(90vh);
     @media screen and (min-width: 1024px) {
       margin-top: calc(100vh - 100px);
-      padding: 2.5rem;
+      padding: 3.5rem 2.5rem;
     }
   }
 }

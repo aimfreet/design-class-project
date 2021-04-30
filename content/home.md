@@ -3,7 +3,7 @@ title: Home Page
 description: Home page
 ---
 
-<span class="illuminated-letter">As</span> someone who makes a living at designing and developing web interfaces, I spend a lot of time evaluating whether a site or application is easy to understand, easy to navigate, and is accessible to all – regardless of their ability or background.
+<span class="illuminated-letter">As</span> someone who makes a living at designing and developing web interfaces, I spend a lot of time evaluating whether a site or application is easy to understand, easy to navigate, and is accessible to all &mdash; regardless of their ability or background.
 
 Often in this process, I turn to iconography or other graphical elements to give further context to the information, to group related topics, or to improve the overall aesthetics of a page.
 
@@ -15,7 +15,7 @@ This indeed, is an accurate observation. There are many similarities between the
 
 ## Icon, Index, Symbol
 
-Culturally, there are very large differences between the civilization of ancient Egypt and the global internet communities of today – but perhaps, if we examine the signs and symbols of yesterday and today through the lens of semiotics – we may gain some valuable insight into the similarities they all share. 
+Culturally, there are very large differences between the civilization of ancient Egypt and the global internet communities of today &mdash; but perhaps, if we examine the signs and symbols of yesterday and today through the lens of semiotics &mdash; we may gain some valuable insight into the similarities they both share. 
 
 What though, is semiotics? 
 
@@ -32,7 +32,7 @@ The signified is the object or concept that is being represented, like a warning
 Peirce’s theory was similar, but added a third component to the nature of a sign. He stated that a sign was composed of a representamen (signifier), an object (signified) and the interpretant. The interpretant is the interpretation that the audience makes between the two. For example, a skull and crossbones image (the signifier) on a bottle of poison (the signified), would mean to most people warning or danger (the interpretant).
 
 <figure class="article-img-center">
-    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/semiosis-triangle.svg" alt="Semiotic Triangle" />
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/semiosis-triangle.svg" alt="Semiotic Triangle" style="max-width: 450px" />
     <p class="article-img-text text-align-center">Peirce's Semiotic Triangle</p>
 </figure>
 
@@ -40,38 +40,49 @@ The interpretant is an important factor to a sign, for the meaning of a sign is 
 
 The signifier can also change. The depiction of an actual object can be both highly realistic or quite simple and abstracted and have it still convey the same meaning depending on the context.
 
-[ images of flags. Realistic and abstract. ]
+<figure class="article-img-center" style="max-width: 450px">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/lightbulbs.jpg" alt="Lightbulbs"  />
+    <p class="article-img-text text-align-center">Both are understood as a lightbulb.</p>
+</figure>
 
 In addition to defining the anatomy of a sign, Peirce also classified the type of signs. Peirce says that the form a sign takes – or its signifier – can take one of three forms:
 
-[Image] Icon: Has a physical resemblance to the object it is representing.
+ <div class="flex margin-bottom-3 flex-items-center">
+    <div style="width: 50px" class="margin-right flex-shrink-0"><img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/lightbulb.svg" alt="lightbulb" /></div>
+    <div><p class="margin-0"><strong>Icon:</strong> Has a physical resemblance to the object it is representing.</p></div>
+</div>
+<div class="flex margin-bottom-3 flex-items-center">
+    <div style="width: 50px" class="margin-right flex-shrink-0"><img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/skull-crossbones.svg" alt="skull and crossbones" /></div>
+    <div><p class="margin-0"><strong>Index:</strong> Refers to or has relationship to the object or concept. An image of a cloud can indicate rain or a skull indicate death.</p></div>
+</div>
+<div class="flex margin-bottom-3 flex-items-center">
+    <div style="width: 50px" class="margin-right flex-shrink-0"><img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/power-off.svg" alt="power off" /></div>
+    <div><p class="margin-0"><strong>Symbol:</strong> The signifier is completely arbitrary and has to be culturally learned. For example, the commonly used power symbol on an electronic device.</p></div>
+</div>
 
-[Image] Index: Refers to or has relationship to the object or concept. An image of a cloud can indicate rain or a skull indicate death.
 
-[Image] Symbol: The signifier is completely arbitrary and has to be culturally learned. For example, the commonly used power symbol on an electronic device.
+When we look around us, we see a combination of these signs everywhere. And as more and more of our lives become entwined with digital technology, sign usage will likely increase. We also see the same categories of signs, in the form of hieroglyphics, in ancient civilizations &mdash; notably ancient Egypt.
 
-When we look around us, we see a combination of these signs everywhere. And as more and more of our lives become entwined with digital technology, sign usage will likely increase. We also see the same categories of signs, in the form of hieroglyphics, in ancient civilizations – notably ancient Egypt.
-
-At its core, the prevalence of symbology and iconography is due to the evolution of communication driven by the increasing complexity of a civilization – including our own.
+At its core, the prevalence of symbology and iconography is due to the evolution of communication driven by the increasing complexity of a civilization &mdash; including our own.
 
 <hr>
 
 ## Ancient Egypt
 
-There is something about the pictorial nature about Egyptian hieroglyphics that seems to capture one’s interest and imagination. When one looks at the clean arrangement of signs, depicting birds and snakes, and people performing tasks from ancient Egyptian life, they feel both understandable and enigmatic. Indeed, until the Rosetta Stone was discovered in the nineteenth century, people had to largely guess at their meaning – often by inserting their own cultural biases.
+There is something about the pictorial nature about Egyptian hieroglyphics that seems to capture one’s interest and imagination. When one looks at the clean arrangement of signs, depicting birds and snakes, and people performing tasks from ancient Egyptian life, they feel both understandable and enigmatic. Indeed, until the Rosetta Stone was discovered in the nineteenth century, people had to largely guess at their meaning &mdash; often by inserting their own cultural biases.
 
-The Rosetta Stone is a large stone tablet carved during that Hellenistic Period that features three groupings of the same text – a decree from Ptolemy V. 
+The Rosetta Stone, a large stone tablet carved during that Hellenistic Period, features three groupings of the same text &mdash; a decree from Ptolemy V.  
 
 <figure class="article-img left">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/rosetta-stone-1.jpeg" alt="Rosetta Stone" />
-    <p class="article-img-text">Aliquam vestibulum morbi blandit cursus risus. Vitae congue mauris rhoncus aenean vel. Sagittis purus sit amet volutpat consequat mauris nunc.</p>
+    <p class="article-img-text">The Rosetta Stone at the British Museum in London, England</p>
 </figure>
 
 The first grouping is in hieroglyphics, the second in demotic, and the third in ancient Greek. Using both the ancient Greek text and an understanding of the ancient Coptic language (a descendant of the ancient Egyptian language) that researchers were able to decipher both the hieroglyphics and demotic script.
 
 It was revealed that the glyphs were more than just a series of pictograms, but were a combination of logograms, phonograms, and determinatives. 
 
-A logogram also known as an ideogram is a symbol that represents a word or idea, a phonogram is a symbol that represents a vocal sound, and a determinative is a symbol to give context and clarify the meaning of a word. A determinative usually follows phonograms. A single symbol could function as all three – its meaning depending on context. This does present some difficulty when trying to translate, as there is much nuance with symbol placement, orientation and arrangement.
+A logogram also known as an ideogram is an icon that represents a word or idea, a phonogram is a symbol that represents a vocal sound, and a determinative is a symbol to give context and clarify the meaning of a word and usually follows phonograms. A single symbol could function as all three – its meaning depending on context. This does present some difficulty when trying to translate, as there is much nuance with symbol placement, orientation and arrangement.
 
 It is unknown how this system of writing originated, as there are no known examples of any earlier form of hieroglyphics, but it is theorized that the Egyptians borrowed the concept of writing from the Sumerians and developed a system that worked for both their language and cultural ideas and practices.
 
@@ -83,7 +94,10 @@ Hieroglyphics, demotic and hieratic script continued to be used throughout the G
 
 <hr>
 
-## The Modern Web
+## The Digital Past and Present
+
+<blockquote class="margin-bottom-6 background-gray-light-10 padding-3">Simple images can communicate with wide audiences over time. Icon design is like solving a puzzle, trying to marry an image and idea that, ideally, will be easy for people to understand and remember.<span>Susan Kare</span></blockquote>
+
 
 Fast forward over 1500 years to today and we now have our own versions of hieroglyphics. They may not have the same mysterious allure as the Egyptian versions but we also have signs drawn from our own reality and cultural backgrounds.
 
@@ -91,15 +105,72 @@ When computers first moved away from text-based terminal screens and commands to
 
 David Canfield Smith, a computer scientist and pioneer of the first GUI, the Xerox Star, was the first to create what we now give the general term of icon. In fact, he is the one credited with coining the term icon as he compared them to the religious icon which were pictures imbued with double meaning. This term does conflict a bit with Peirce’s scientific classification for signs, but it is now part of the popular lexicon for computer interface images.
 
-[image of the xero star icons]
 
-After the Xerox Star, icon development continued and was improved by artist Susan Kare who was hired to create icons for the first MacIntosh operating system – the Apple Lisa. Many of the icons she created were virtually the same as those that were made for the Xerox Star, but their design was refined and many new icons were added, such as the clock, the calculator, the disk and particularly, the bomb and happy Mac – for which Macs are still famous. Interestingly, the first image-based font, developed by Susan Kare for the Mac, was named Cairo – a direct reference to the influence of Egyptian hieroglyphics.
+<figure class="article-img-center margin-y-4">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/Xerox-Star-icons.png" alt="Xerox Star Icons" />
+    <p class="article-img-text text-align-center">First Mac icons designed by Susan Kare</p>
+</figure>
 
-[image of mac fonts & cairo]
+After the Xerox Star, icon development continued and was improved by artist Susan Kare who was hired to create icons for the first MacIntosh operating system – the Apple Lisa. Many of the icons she created were virtually the same as those that were made for the Xerox Star, but their design was refined and many new icons were added, such as the clock, the disk and particularly, the bomb and happy Mac – for which Macs are still famous. Interestingly, the first image-based font, developed by Susan Kare for the Mac, was named Cairo – a direct reference to the influence of Egyptian hieroglyphics.
+
+<figure class="article-img-center margin-y-4">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/first_mac_icons.jpeg" alt="First Mac Icons" />
+    <p class="article-img-text text-align-center">First Mac icons designed by Susan Kare</p>
+</figure>
 
 Over time, as color monitors became available, screen resolutions increased, and computer functions became more complex, the quality and quantity of icons also increased. It was the invention of the iPhone in 2007 though, that really brought icon use to the forefront. Though more simple mobile phones also used icons to perform actions, the entire interface of the iPhone is dependent on the tapping of icons.
 
-[ iPhone ]
+<figure class="article-img left">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/topic_iphone_2g.png" alt="The first iPhone" />
+    <p class="article-img-text">The first iPhone</p>
+</figure>
+
+In recent years, the more realistic icons of the early iPhone, are being replaced by flatter, more simplistic and abstracted designs. A prime example being Google’s Material design.
+
+Why are icons so prevalent in the digital space when their use is relatively limited elsewhere? Why use an icon when text is more explicit?
+
+In the early days of computing, icons were used to simulate an action that an office worker would be familiar with in real life, like storing files. A graphical interface that could be clicked on with a mouse, was easier than remembering a variety of text commands that the old terminals required.
+
+Today, there are many types of computer screens with different resolutions and many digital devices that vary in screen size. This presents a unique design challenge. While the height of any webpage is infinite, as well as the number of pages to a site, the design’s width is limited to the width of the device it is displayed on. The user’s attention is also a finite resource. Most analytical data and user studies reveal that user engagement drops off after the first half of the page - a term called scroll depth - and most users do not venture past the first few pages.
+
+When icons are used effectively they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. This is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in typical user scanning patterns.
+
+cons can also save space. An icon will take up less valuable real estate than text, especially mobile devices, and can be used to reveal hidden information. A good example is the menu icon that we are all now familiar with. And though an icon takes up less space than text, it is a much better touch target on mobile devices which can increase usability and accessibility.
+
+Many icons are also universal. Images like a house or an envelope are recognizable all over the world, which can help with communicating to users regardless of the language they speak or their level of literacy. I have often observed small children, including my own son, easily navigate a mobile device, purely by tapping on icons, long before they were able to read.
+
+Lastly, icons can provide additional context to text. Specialized icons, known as emojis or emotion icons, can be helpful in person to person text communication where tone of voice is missing. Emojis are generally used in social media applications, but they have been an effective tool for email marketing, where companies are trying to capture a user's attention.
+
+<figure class="article-img-center margin-y-4">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/emoji_bubble.png" alt="Emoji Bubble" />
+    <p class="article-img-text text-align-center">An emoji and reflect a feeling or meaning to a text when tone of voice is missing.</p>
+</figure>
+
+There are drawbacks and pitfalls to icon usage. Like Egyptian hieroglyphics, a single icon could have multiple meanings or a variety of icons could have the same meaning. If used inappropriately, the icon could confuse users as to what they should do.
+
+[ image of star, heart, thumbs up ]
+
+There is also cultural variation in what icons are used for specific meanings. If one is creating a site or application for an international audience, knowing what certain icons mean for certain tasks is important.
+
+[ Japanese checkmark vs English ]
+
+Additionally, icons could pose some accessibility issues. If an icon is used in place of text or if the icon is not labelled in some way, it could prevent users with visual disabilities from accessing information, as screen reading devices do not recognize or read images.
+
+Context, icon placement, and audience are key to effective communication with images today as it was a couple of millennia ago.
+
+## The Future
+
+What will the future hold for icon usage and digital communication?
+
+As technology continues to become more sophisticated with device processing and storage exponentially increasing, more dynamic visual elements will probably be used. We are already starting to see animated icons. Adding movement to an image may help to communicate an action or concept – though care will have to be taken to make sure that it is not visually distracting.
+
+Icons may also be further simplified and abstracted for use on small devices like wearables or in areas of applications where space is at a premium. Some icons also may be replaced with other images that are more relevant – such replacing the floppy disk (something that newer generations have not encountered) icon used for saving with another image.
+
+[images of menu icon and meatball/kebab. Floppy disk with]
+
+There is a possibility though, that with increasing sophistication of voice and image recognition technologies that the devices we use today may be replaced with ones that rely more on verbal commands and automatic responses to movement. This may render icons antiquated and obsolete like the images carved into the tombs of long dead kings.
+
+
 
 
 

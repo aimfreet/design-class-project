@@ -19,13 +19,16 @@
         color: #535353;
     }
     &-center {
-        max-width: 450px;
-        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 2rem auto;
     }
 }
 figure {
     margin: 0;
 }
+
 
 .illuminated-letter {
     font-size: 56px;

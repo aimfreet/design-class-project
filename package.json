@@ -11,7 +11,8 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.8.3",
-    "nuxt": "^2.14.12"
+    "nuxt": "^2.14.12",
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "fibers": "^5.0.0",

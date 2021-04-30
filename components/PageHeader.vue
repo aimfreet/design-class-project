@@ -58,11 +58,14 @@ export default {
             @media screen and (min-width: 1024px) {
                 padding: .5rem 1.5rem;
                 border: 2px solid #000E54;
+                &:hover,
+                &:active,
+                &:focus {
+                    background-color: #000E54;
+                    color: #fff;
+                }
             }
-            &:hover {
-                background-color: #000E54;
-                color: #fff;
-            }
+            
         }
         &-label {
             text-transform: uppercase;
