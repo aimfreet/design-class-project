@@ -122,20 +122,20 @@ Over time, as color monitors became available, screen resolutions increased, and
 
 <figure class="article-img left">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/topic_iphone_2g.png" alt="The first iPhone" />
-    <p class="article-img-text">The first iPhone</p>
+    <p class="article-img-text text-align-center">The first iPhone</p>
 </figure>
 
 In recent years, the more realistic icons of the early iPhone, are being replaced by flatter, more simplistic and abstracted designs. A prime example being Google’s Material design.
 
 Why are icons so prevalent in the digital space when their use is relatively limited elsewhere? Why use an icon when text is more explicit?
 
-In the early days of computing, icons were used to simulate an action that an office worker would be familiar with in real life, like storing files. A graphical interface that could be clicked on with a mouse, was easier than remembering a variety of text commands that the old terminals required.
+In the early days of computing, icons were used to simulate an action that an office worker would be familiar with in real life, like storing files inside of a folder. A graphical interface that could be clicked on with a mouse, was easier than remembering a variety of text commands that the old terminals required.
 
 Today, there are many types of computer screens with different resolutions and many digital devices that vary in screen size. This presents a unique design challenge. While the height of any webpage is infinite, as well as the number of pages to a site, the design’s width is limited to the width of the device it is displayed on. The user’s attention is also a finite resource. Most analytical data and user studies reveal that user engagement drops off after the first half of the page - a term called scroll depth - and most users do not venture past the first few pages.
 
-When icons are used effectively they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. This is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in typical user scanning patterns.
+When icons are used effectively they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. It is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in typical user scanning patterns.
 
-cons can also save space. An icon will take up less valuable real estate than text, especially mobile devices, and can be used to reveal hidden information. A good example is the menu icon that we are all now familiar with. And though an icon takes up less space than text, it is a much better touch target on mobile devices which can increase usability and accessibility.
+Icons can also save space. An icon will take up less valuable real estate than text, especially mobile devices, and can be used to reveal hidden information. A good example is the menu icon that we are all now familiar with. And though an icon takes up less space than text, it is a much better touch target on mobile devices which can increase usability and accessibility.
 
 Many icons are also universal. Images like a house or an envelope are recognizable all over the world, which can help with communicating to users regardless of the language they speak or their level of literacy. I have often observed small children, including my own son, easily navigate a mobile device, purely by tapping on icons, long before they were able to read.
 
@@ -143,7 +143,7 @@ Lastly, icons can provide additional context to text. Specialized icons, known a
 
 <figure class="article-img-center margin-y-4">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/emoji_bubble.png" alt="Emoji Bubble" />
-    <p class="article-img-text text-align-center">An emoji and reflect a feeling or meaning to a text when tone of voice is missing.</p>
+    <p class="article-img-text text-align-center">An emoji can reflect a feeling or meaning to a text when tone of voice is missing.</p>
 </figure>
 
 There are drawbacks and pitfalls to icon usage. Like Egyptian hieroglyphics, a single icon could have multiple meanings or a variety of icons could have the same meaning. If used inappropriately, the icon could confuse users as to what they should do.
@@ -154,17 +154,21 @@ There is also cultural variation in what icons are used for specific meanings. I
 
 [ Japanese checkmark vs English ]
 
-Additionally, icons could pose some accessibility issues. If an icon is used in place of text or if the icon is not labelled in some way, it could prevent users with visual disabilities from accessing information, as screen reading devices do not recognize or read images.
+Additionally, icons could pose some accessibility issues. If an icon is used in place of text, or if the icon is not labelled in some way, it could prevent users with visual disabilities from accessing information, as screen reading devices do not recognize or read images.
 
-Context, icon placement, and audience are key to effective communication with images today as it was a couple of millennia ago.
+Context, icon placement, and audience are key to effective communication - today as it was a couple of millennia ago.
 
 ## The Future
 
 What will the future hold for icon usage and digital communication?
 
+<figure class="article-img left">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/rocket-1.svg" alt="Animated Rocket" />
+</figure>
+
 As technology continues to become more sophisticated with device processing and storage exponentially increasing, more dynamic visual elements will probably be used. We are already starting to see animated icons. Adding movement to an image may help to communicate an action or concept – though care will have to be taken to make sure that it is not visually distracting.
 
-Icons may also be further simplified and abstracted for use on small devices like wearables or in areas of applications where space is at a premium. Some icons also may be replaced with other images that are more relevant – such replacing the floppy disk (something that newer generations have not encountered) icon used for saving with another image.
+Icons may also be further simplified and abstracted for use on small devices like wearables or in areas of applications where space is at a premium. Some icons also may be replaced with other images that are more relevant – such replacing the floppy disk icon (something that newer generations have not encountered), with another image.
 
 [images of menu icon and meatball/kebab. Floppy disk with]
 
