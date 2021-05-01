@@ -141,7 +141,7 @@ Today, there are many types of computer screens with different resolutions and m
 
 When icons are used effectively they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. It is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in <a href="https://graphicmint.com/design-reading-patterns/">typical user scanning patterns</a>.
 
-<div class="flex flex-column flex-row-md">
+<div class="flex flex-column flex-row-md" style="max-width: 800px; margin: 0 auto;">
     <div class="flex-grow-1 margin-bottom-6">
         <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/F-pattern.svg" alt="F Scanning Pattern">
         <div class="text-gray-dark text-align-center">
@@ -162,14 +162,14 @@ Many icons are also universal. Images like a house or an envelope are recognizab
 
 Lastly, icons can provide additional context to text. Specialized icons, known as emojis or emotion icons, can be helpful in person to person text communication where tone of voice is missing. Emojis are generally used in social media applications, but they have been an effective tool for email marketing, where companies are trying to capture a user's attention.
 
-<figure class="article-img-center margin-y-4">
+<figure class="article-img-center margin-y-6">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/emoji_bubble.png" alt="Emoji Bubble" />
     <p class="article-img-text text-align-center">An emoji can convey an emotion or provide clarification to a text when tone of voice is missing.</p>
 </figure>
 
 There are drawbacks and pitfalls to icon usage. Like Egyptian hieroglyphics, a single icon could have multiple meanings or a variety of icons could have the same meaning. If used inappropriately, the icon could confuse users as to what they should do.
 
-<figure class="article-img-center margin-y-4">
+<figure class="article-img-center margin-y-6">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/hear-thumbs-up-star.svg" alt="Heart, Star, Thumbs Up Icon" style="max-width: 350px; width:100%" />
     <p class="article-img-text text-align-center" style="max-width: 550px; width:100%">Each icon can mean the same thing or have different meanings depending on context. Using the wrong one could confuse users.</p>
 </figure>

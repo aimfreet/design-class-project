@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         <header class="page-header">
             <button class="menu-toggle-button" @click="menuToggle">
                 <i class="icon-hamburger"></i><span class="menu-toggle-label">Menu</span>
