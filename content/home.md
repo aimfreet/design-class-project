@@ -90,6 +90,12 @@ If Egyptians did indeed adopt writing from the Sumerians, they would have recogn
 
 This writing system was initially the domain of the priestly class, who were responsible for not only the religious duties of Egyptian society, but also for state administration. The scribes of this priestly class developed a cursive version of the formal hieroglyphics, called hieratic, which was easier and quicker to write. Hieratic then evolved into demotic, a more simplified and abstracted script. All three writing forms coexisted, but their uses depended on what was being communicated. Hieratic and demotic were for more common purposes like general record keeping while the traditional hieroglyphics were for more formal purposes like royal tombs and monuments. 
 
+<figure class="article-img-center margin-y-4">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/heiroglyph.svg" alt="Hieroglyphic, Hieratic, Demotic" style="max-width: 550px; width:100%"/>
+    <p class="article-img-text text-align-center" style="max-width: 500px">Hieroglyph, hieratic and demotic for vulture. It is a determinative and sometimes an ideogram. It can signify a feminine connotation. [ <a href="">3</a> ]</p>
+</figure>
+
+
 Hieroglyphics, demotic and hieratic script continued to be used throughout the Greek and Roman occupation of Egypt, but over time it was replaced by the more modern Greek writing and then eventually forgotten. Their influence on future cultures still remain, for they form the root of the Roman alphabet that we use today.
 
 <hr>
@@ -101,7 +107,7 @@ Hieroglyphics, demotic and hieratic script continued to be used throughout the G
 
 Fast forward over 1500 years to today and we now have our own versions of hieroglyphics. They may not have the same mysterious allure as the Egyptian versions but we also have signs drawn from our own reality and cultural backgrounds.
 
-When computers first moved away from text-based terminal screens and commands to graphical user interfaces (GUI), it was quickly discovered that they would need to design these interfaces to be easy to use across a broad population of users – many who would be encountering a computer for the first time. To do this, signs were created using images that would make sense to a user performing a task virtually that would mirror an action taken in real life. Thus, computer files were stored in folders or put in a trash to delete, so the images were drawn to look like office file folders and trash cans.
+When computers first moved away from text-based terminal screens and commands to graphical user interfaces (GUI), it was quickly discovered that they would need to design these interfaces to be easy to use across a broad population of users &mdash; many who would be encountering a computer for the first time. To do this, signs were created using images that would make sense to a user performing a task virtually that would mirror an action taken in real life. Thus, computer files were stored in folders or put in a trash to delete, so the images were drawn to look like office file folders and trash cans.
 
 David Canfield Smith, a computer scientist and pioneer of the first GUI, the Xerox Star, was the first to create what we now give the general term of icon. In fact, he is the one credited with coining the term icon as he compared them to the religious icon which were pictures imbued with double meaning. This term does conflict a bit with Peirce’s scientific classification for signs, but it is now part of the popular lexicon for computer interface images.
 
@@ -111,7 +117,7 @@ David Canfield Smith, a computer scientist and pioneer of the first GUI, the Xer
     <p class="article-img-text text-align-center">First Mac icons designed by Susan Kare</p>
 </figure>
 
-After the Xerox Star, icon development continued and was improved by artist Susan Kare who was hired to create icons for the first MacIntosh operating system – the Apple Lisa. Many of the icons she created were virtually the same as those that were made for the Xerox Star, but their design was refined and many new icons were added, such as the clock, the disk and particularly, the bomb and happy Mac – for which Macs are still famous. Interestingly, the first image-based font, developed by Susan Kare for the Mac, was named Cairo – a direct reference to the influence of Egyptian hieroglyphics.
+After the Xerox Star, icon development continued and was improved by artist Susan Kare who was hired to create icons for the first MacIntosh operating system – the Apple Lisa. Many of the icons she created were virtually the same as those that were made for the Xerox Star, but their design was refined and many new icons were added, such as the clock, the disk and particularly, the bomb and happy Mac &mdash; for which Macs are still famous. Interestingly, the first image-based font, developed by Susan Kare for the Mac, was named Cairo, a direct reference to the influence of Egyptian hieroglyphics.
 
 <figure class="article-img-center margin-y-4">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/first_mac_icons.jpeg" alt="First Mac Icons" />
@@ -120,7 +126,7 @@ After the Xerox Star, icon development continued and was improved by artist Susa
 
 Over time, as color monitors became available, screen resolutions increased, and computer functions became more complex, the quality and quantity of icons also increased. It was the invention of the iPhone in 2007 though, that really brought icon use to the forefront. Though more simple mobile phones also used icons to perform actions, the entire interface of the iPhone is dependent on the tapping of icons.
 
-<figure class="article-img left">
+<figure class="article-img right">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/topic_iphone_2g.png" alt="The first iPhone" />
     <p class="article-img-text text-align-center">The first iPhone</p>
 </figure>
@@ -131,9 +137,24 @@ Why are icons so prevalent in the digital space when their use is relatively lim
 
 In the early days of computing, icons were used to simulate an action that an office worker would be familiar with in real life, like storing files inside of a folder. A graphical interface that could be clicked on with a mouse, was easier than remembering a variety of text commands that the old terminals required.
 
-Today, there are many types of computer screens with different resolutions and many digital devices that vary in screen size. This presents a unique design challenge. While the height of any webpage is infinite, as well as the number of pages to a site, the design’s width is limited to the width of the device it is displayed on. The user’s attention is also a finite resource. Most analytical data and user studies reveal that user engagement drops off after the first half of the page - a term called scroll depth - and most users do not venture past the first few pages.
+Today, there are many types of computer screens with different resolutions and many digital devices that vary in screen size. This presents a unique design challenge. While the height of any webpage is infinite, as well as the number of pages to a site, the design’s width is limited to the width of the device it is displayed on. The user’s attention is also a finite resource. Most analytical data and user studies reveal that user engagement drops off after the first half of the page - a term called scroll depth &mdash; and most users do not venture past the first few pages.
 
-When icons are used effectively they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. It is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in typical user scanning patterns.
+When icons are used effectively they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. It is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in <a href="https://graphicmint.com/design-reading-patterns/">typical user scanning patterns</a>.
+
+<div class="flex flex-column flex-row-md">
+    <div class="flex-grow-1 margin-bottom-6">
+        <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/F-pattern.svg" alt="F Scanning Pattern">
+        <div class="text-gray-dark text-align-center">
+        F shaped scanning pattern.
+        </div>
+    </div>
+    <div class="flex-grow-1 margin-bottom-6">
+        <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/z-pattern.svg" alt="Z Scanning Pattern">
+        <div class="text-gray-dark text-align-center">
+        Z shaped scanning pattern.
+        </div>
+    </div>
+</div>
 
 Icons can also save space. An icon will take up less valuable real estate than text, especially mobile devices, and can be used to reveal hidden information. A good example is the menu icon that we are all now familiar with. And though an icon takes up less space than text, it is a much better touch target on mobile devices which can increase usability and accessibility.
 
@@ -143,20 +164,25 @@ Lastly, icons can provide additional context to text. Specialized icons, known a
 
 <figure class="article-img-center margin-y-4">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/emoji_bubble.png" alt="Emoji Bubble" />
-    <p class="article-img-text text-align-center">An emoji can reflect a feeling or meaning to a text when tone of voice is missing.</p>
+    <p class="article-img-text text-align-center">An emoji can convey an emotion or provide clarification to a text when tone of voice is missing.</p>
 </figure>
 
 There are drawbacks and pitfalls to icon usage. Like Egyptian hieroglyphics, a single icon could have multiple meanings or a variety of icons could have the same meaning. If used inappropriately, the icon could confuse users as to what they should do.
 
-[ image of star, heart, thumbs up ]
+<figure class="article-img-center margin-y-4">
+    <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/hear-thumbs-up-star.svg" alt="Heart, Star, Thumbs Up Icon" style="max-width: 350px; width:100%" />
+    <p class="article-img-text text-align-center" style="max-width: 550px; width:100%">Each icon can mean the same thing or have different meanings depending on context. Using the wrong one could confuse users.</p>
+</figure>
 
-There is also cultural variation in what icons are used for specific meanings. If one is creating a site or application for an international audience, knowing what certain icons mean for certain tasks is important.
+There is also cultural variation in what icons are used for specific meanings. If one is creating a site or application for an international audience, knowing what certain icons mean for certain tasks is important. [<a href="">10</a>]
 
 [ Japanese checkmark vs English ]
 
 Additionally, icons could pose some accessibility issues. If an icon is used in place of text, or if the icon is not labelled in some way, it could prevent users with visual disabilities from accessing information, as screen reading devices do not recognize or read images.
 
 Context, icon placement, and audience are key to effective communication - today as it was a couple of millennia ago.
+
+<hr>
 
 ## The Future
 

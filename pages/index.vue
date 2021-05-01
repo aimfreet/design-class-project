@@ -4,6 +4,7 @@
       <div class="container-xl">
         <div class="home-page__content page-text shadow-depth-1">
           <nuxt-content :document="page" />
+          <EndNotes />
         </div>
       </div>
     </div>
