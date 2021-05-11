@@ -51,3 +51,16 @@ hr {
     max-width: 68em;
     margin: 0 auto;
 }
+
+.anchor-link {
+    margin-top: -110px !important;
+    padding-top: 110px !important;
+}
+
+a { font-weight: bold;}
+
+.biblio {
+    & a {
+        font-weight: normal;
+    }
+}

@@ -3,31 +3,92 @@
         <div class="site-menu" :class="showMenu">
             <nav>
                 <ul class="site-menu-list">
-                <li class="site-menu-list-item">
-                    Home
+                    <li class="site-menu-list-item">
+                        <a href="#"
+                        class="site-menu-link"
+                        v-scroll-to="{
+                        el: '#home',
+                        force: true,
+                        cancelable: false,
+                        onDone: scrollDone
+                        }">
+                            Home
+                        </a>
                     </li>
                     <li class="site-menu-list-item">
-                    Icon, Index, Symbol
+                        <a href="#" 
+                        class="site-menu-link"
+                        v-scroll-to="{
+                        el: '#icon-index-symbol',
+                        force: true,
+                        cancelable: false,
+                        onDone: scrollDone
+                        }">
+                            Icon, Index, Symbol
+                        </a>
                     </li>
                     <li class="site-menu-list-item">
-                    Ancient Egypt
+                        <a href="#" 
+                        class="site-menu-link"
+                        v-scroll-to="{
+                        el: '#ancient-egypt',
+                        force: true,
+                        cancelable: false,
+                        onDone: scrollDone
+                        }">
+                            Ancient Egypt
+                        </a>
                     </li>
                     <li class="site-menu-list-item">
-                    The Digital Past and Present
+                        <a href="#" 
+                        class="site-menu-link"
+                        v-scroll-to="{
+                        el: '#digital-past-present',
+                        force: true,
+                        cancelable: false,
+                        onDone: scrollDone
+                        }">
+                            The Digital Past and Present
+                        </a>
                     </li>
                     <li class="site-menu-list-item">
-                    The Future
+                        <a href="#" 
+                        class="site-menu-link"
+                        v-scroll-to="{
+                        el: '#the-future',
+                        force: true,
+                        cancelable: false,
+                        onDone: scrollDone
+                        }">
+                            The Future
+                        </a>
                     </li>
-                <li class="site-menu-list-item">
-                    End Notes
+                    <li class="site-menu-list-item">
+                        <a href="#" class="site-menu-link"
+                        v-scroll-to="{
+                        el: '#end-notes',
+                        force: true,
+                        cancelable: false,
+                        onDone: scrollDone
+                        }">
+                            End Notes
+                        </a>
                     </li>
-                <li class="site-menu-list-item">
-                    Bibliography
+                    <li class="site-menu-list-item">
+                        <a href="#" class="site-menu-link"
+                        v-scroll-to="{
+                        el: '#bibliography',
+                        force: true,
+                        cancelable: false,
+                        onDone: scrollDone
+                        }">
+                            Bibliography
+                        </a>
                     </li>
                 </ul>
             </nav>
         </div>
-        <div class="site-menu-overlay"></div>
+        <div class="site-menu-overlay" @click="closeMenu"></div>
     </div>
 </template>
 
@@ -46,6 +107,18 @@ export default {
             };
         }
     },
+    methods:{
+        closeMenu() {
+            this.isVisible = !this.isVisible;
+        },
+    },
+    mounted () {
+        const closeBar = document.querySelector('.site-menu-link');
+        closeBar.addEventListener('click', this.closeMenu);
+    },
+    beforeDestroy () {
+        document.removeEventListener('click',this.close)
+    }
 };
 </script>
 
@@ -88,6 +161,10 @@ export default {
             &:not(first-child) {
                 border-bottom: 1px solid #dcdadb;
             }
+            & > a {
+                font-weight: normal;
+                text-decoration: none;
+            } 
         }
     }
     &-overlay {
