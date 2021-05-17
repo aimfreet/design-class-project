@@ -45,7 +45,7 @@ The signifier can also change. The depiction of an actual object can be both hig
     <p class="article-img-text text-align-center">Both are understood as a lightbulb.</p>
 </figure>
 
-In addition to defining the anatomy of a sign, Peirce also classified the type of signs. Peirce says that the form a sign takes – or its signifier – can take one of three forms:
+In addition to defining the anatomy of a sign, Peirce also classified the type of signs. Peirce says that the form a sign takes &mdash; or its signifier &mdash; can take one of three forms:
 
  <div class="flex margin-bottom-3 flex-items-center">
     <div style="width: 50px" class="margin-right flex-shrink-0"><img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/lightbulb.svg" alt="lightbulb" /></div>
@@ -61,7 +61,7 @@ In addition to defining the anatomy of a sign, Peirce also classified the type o
 </div>
 
 
-When we look around us, we see a combination of these signs everywhere. And as more and more of our lives become entwined with digital technology, sign usage will likely increase. We also see the same categories of signs, in the form of hieroglyphics, in ancient civilizations &mdash; notably ancient Egypt.
+When we look around us, we see a combination of these signs everywhere. And as more and more of our lives become entwined with digital technology, sign usage will likely increase. We also see the same categories of signs, in the form of hieroglyphics, in ancient civilizations, notably ancient Egypt.
 
 At its core, the prevalence of symbology and iconography is due to the evolution of communication driven by the increasing complexity of a civilization &mdash; including our own.
 
@@ -78,11 +78,11 @@ The Rosetta Stone, a large stone tablet carved during that Hellenistic Period, f
     <p class="article-img-text">The Rosetta Stone at the British Museum in London, England</p>
 </figure>
 
-The first grouping is in hieroglyphics, the second in demotic, and the third in ancient Greek. Using both the ancient Greek text and an understanding of the ancient Coptic language (a descendant of the ancient Egyptian language) that researchers were able to decipher both the hieroglyphics and demotic script.
+The first grouping is in hieroglyphics, the second in demotic, and the third in ancient Greek. Using both the ancient Greek text and an understanding of the ancient Coptic language (a descendant of the ancient Egyptian language) researchers were able to decipher both the hieroglyphics and demotic script.
 
 It was revealed that the glyphs were more than just a series of pictograms, but were a combination of logograms, phonograms, and determinatives. 
 
-A logogram also known as an ideogram is an icon that represents a word or idea, a phonogram is a symbol that represents a vocal sound, and a determinative is a symbol to give context and clarify the meaning of a word and usually follows phonograms. A single symbol could function as all three, its meaning depending on context. This does present some difficulty when trying to translate, as there is much nuance with symbol placement, orientation and arrangement. [<a href="#three">3</a>]
+A logogram also known as an ideogram is an icon that represents a word or idea, a phonogram is a symbol that represents a vocal sound, and a determinative is a symbol to give context and clarify the meaning of a word &mdash; usually following a phonogram. A single symbol could function as all three, its meaning depending on context. This does present some difficulty when trying to translate, as there is much nuance with symbol placement, orientation and arrangement. [<a href="#three">3</a>]
 
 It is unknown how this system of writing originated, as there are no known examples of any earlier form of hieroglyphics, but it is theorized that the Egyptians borrowed the concept of writing from the Sumerians and developed a system that worked for both their language and cultural ideas and practices.
 
@@ -95,7 +95,6 @@ This writing system was initially the domain of the priestly class, who were res
     <p class="article-img-text text-align-center" style="max-width: 500px">Hieroglyph, hieratic and demotic for vulture. It is a determinative and sometimes an ideogram. It can signify a feminine connotation. [<a href="#five">5</a> ]</p>
 </figure>
 
-
 Hieroglyphics, demotic and hieratic script continued to be used throughout the Greek and Roman occupation of Egypt, but over time it was replaced by the more modern Greek writing and then eventually forgotten. Their influence on future cultures still remain, for they form the root of the Roman alphabet that we use today.
 
 <hr>
@@ -107,9 +106,9 @@ Hieroglyphics, demotic and hieratic script continued to be used throughout the G
 
 Fast forward over 1500 years to today and we now have our own versions of hieroglyphics. They may not have the same mysterious allure as the Egyptian versions but we also have signs drawn from our own reality and cultural backgrounds.
 
-When computers first moved away from text-based terminal screens and commands to graphical user interfaces (GUI), it was quickly discovered that they would need to design these interfaces to be easy to use across a broad population of users &mdash; many of whom would be encountering a computer for the first time. To do this, signs were created using images that would make sense to a user performing a task virtually that would mirror an action taken in real life. Thus, computer files were stored in folders or put in a trash to delete, so the images were drawn to look like office file folders and trash cans. [<a href="#six">6</a>]
+When computers first moved away from text-based terminal screens and commands to graphical user interfaces (GUI), it was quickly discovered that they would need to design these interfaces to be easy to use across a broad population of users &mdash; many of whom would be encountering a computer for the first time. To do this, signs were created using images that would make sense to a user performing a task virtually, that would mirror an action taken in real life. Thus, computer files were stored in folders or put in a trash to delete, so the images were drawn to look like office file folders and trash cans. [<a href="#six">6</a>]
 
-David Canfield Smith, a computer scientist and pioneer of the first GUI, the Xerox Star, was the first to create what we now give the general term of icon. In fact, he is the one credited with coining the term icon as he compared them to the religious icon which were pictures imbued with double meaning. This term does conflict a bit with Peirce’s scientific classification for signs, but it is now part of the popular lexicon for computer interface images.
+David Canfield Smith, a computer scientist and pioneer of the first GUI, the Xerox Star, was the first to create what we now give the general term of icon. In fact, he is the one credited with coining the term icon as he compared them to the religious icon &mdash; pictures imbued with double meaning. This term does conflict a bit with Peirce’s scientific classification for signs, but it is now part of the popular lexicon for computer interface images.
 
 
 <figure class="article-img-center margin-y-4">
@@ -204,9 +203,9 @@ What will the future hold for icon usage and digital communication?
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/rocket-1.svg" alt="Animated Rocket" />
 </figure>
 
-As technology continues to become more sophisticated with device processing and storage exponentially increasing, more dynamic visual elements will probably be used. We are already starting to see animated icons. Adding movement to an image may help to communicate an action or concept – though care will have to be taken to make sure that it is not visually distracting.
+As technology continues to become more sophisticated with device processing and storage exponentially increasing, more dynamic visual elements will probably be used. We are already starting to see animated icons. Adding movement to an image may help to communicate an action or concept &mdash; though care will have to be taken to make sure that it is not visually distracting.
 
-Icons may also be further simplified and abstracted for use on small devices like wearables or in areas of applications where space is at a premium. Some icons also may be replaced with other images that are more relevant – such replacing the floppy disk icon (something that newer generations have not encountered), with another image.
+Icons may also be further simplified and abstracted for use on small devices like wearables or in areas of applications where space is at a premium. Some icons also may be replaced with other images that are more relevant, such replacing the floppy disk icon (something that younger generations have not encountered), with another image.
 
 <figure class="article-img-center margin-y-6">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/hamburg-meatball.svg" alt="Hamburger Icon, Meatball and Kebab" style="max-width: 250px; width:100%" />
@@ -221,12 +220,10 @@ There is a possibility though, that with increasing sophistication of voice and 
 
 <div class="biblio">
 
-<p id="one" class="anchor-link">1. Schneider, Florian. 2013. “A Rough Guide to the Theory of Semiotics”<br>
-    <a href="http://www.politicseastasia.com/studying/guide-to-the-theory-of-semiotics/">http://www.politicseastasia.com/studying/guide-to-the-theory-of-semiotics/</a>
+<p id="one" class="anchor-link">1. Schneider, Florian. 2013. <a href="http://www.politicseastasia.com/studying/guide-to-the-theory-of-semiotics/">“A Rough Guide to the Theory of Semiotics”</a>.
 </p>
 
-<p id="two" class="anchor-link">2. Hazeez, Habdul. 2021. “Beyond the hashtag: Applying semiotics to web design”<br>
-    <a href="https://blog.logrocket.com/beyond-the-hashtag-applying-semiotics-to-web-design/">https://blog.logrocket.com/beyond-the-hashtag-applying-semiotics-to-web-design/</a>
+<p id="two" class="anchor-link">2. Hazeez, Habdul. 2021. <a href="https://blog.logrocket.com/beyond-the-hashtag-applying-semiotics-to-web-design/">“Beyond the hashtag: Applying semiotics to web design”</a>
 </p>
 
 <p id="three" class="anchor-link">3. Betro, Maria Carmela. “Hieroglyphics. The Writings of Ancient Egypt”. Abbeville Press Publishers. 1996. P. 17-22.
@@ -238,27 +235,21 @@ There is a possibility though, that with increasing sophistication of voice and 
 <p id="five" class="anchor-link">5. Betro, Maria Carmela. “Hieroglyphics. The Writings of Ancient Egypt”. Abbeville Press Publishers. 1996. P. 103.
 </p>
 
-<p id="six">6. "A Brief History of the Origin of the Computer Icon". Interaction Design Foundation. 2016.<br>
-<a href="https://www.interaction-design.org/literature/article/a-brief-history-of-the-origin-of-the-computer-icon">https://www.interaction-design.org/literature/article/a-brief-history-of-the-origin-of-the-computer-icon</a></p>
+<p id="six">6. <a href="https://www.interaction-design.org/literature/article/a-brief-history-of-the-origin-of-the-computer-icon">"A Brief History of the Origin of the Computer Icon"</a>. Interaction Design Foundation. 2016.</p>
 
-<p id="seven">7. "A Brief History of the Origin of the Computer Icon". Interaction Design Foundation. 2016.<br>
-<a href="https://www.interaction-design.org/literature/article/a-brief-history-of-the-origin-of-the-computer-icon">https://www.interaction-design.org/literature/article/a-brief-history-of-the-origin-of-the-computer-icon</a></p>
+<p id="seven">7. <a href="https://www.interaction-design.org/literature/article/a-brief-history-of-the-origin-of-the-computer-icon">"A Brief History of the Origin of the Computer Icon"</a>. Interaction Design Foundation. 2016.</p>
 
-<p id="eight">8. Kindy, David. "How Susan Kare Designed User-Friendly Icons for the First Macintosh". Smithsonian Magazine. 2019.<br>
-<a href="https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/">https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/</a></p>
+<p id="eight">8. Kindy, David. <a href="https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/">"How Susan Kare Designed User-Friendly Icons for the First Macintosh"</a>. Smithsonian Magazine. 2019.</p>
 
-<p id="nine">9. Rogers, Y. "Evaluating the Meaningfulness of Icon Sets to Represent Command Operations". In M. D. Harrison and A. F. Monk (eds), People and Computers: Designing for Usability II. HCI’86 Conference, Exeter. Cambridge, Cambridge University Press. 1986. 86-603 <a href="http://yvonnerogers.com/wp-content/uploads/2014/07/HCI.pdf">http://yvonnerogers.com/wp-content/uploads/2014/07/HCI.pdf</a></p>
+<p id="nine">9. Rogers, Y.  <a href="http://yvonnerogers.com/wp-content/uploads/2014/07/HCI.pdf">"Evaluating the Meaningfulness of Icon Sets to Represent Command Operations"</a>. In M. D. Harrison and A. F. Monk (eds), People and Computers: Designing for Usability II. HCI’86 Conference, Exeter. Cambridge, Cambridge University Press. 1986. 86-603</p>
 
-<p id="ten">10. Fessenden, Therese. "Scrolling and Attention". Nielsen Norman Group. 2018.<br>
-<a href="https://www.nngroup.com/articles/scrolling-and-attention/">https://www.nngroup.com/articles/scrolling-and-attention/</a></p>
+<p id="ten">10. Fessenden, Therese. <a href="https://www.nngroup.com/articles/scrolling-and-attention/">"Scrolling and Attention"</a>. Nielsen Norman Group. 2018.</p>
 
-<p id="eleven">11. Harley, Aurora. "Icon Usability." Nielsen Norman Group. 2014.<br>
-<a href="https://www.nngroup.com/articles/icon-usability/">https://www.nngroup.com/articles/icon-usability/</a></p>
+<p id="eleven">11. Harley, Aurora. <a href="https://www.nngroup.com/articles/icon-usability/">"Icon Usability"</a>. Nielsen Norman Group. 2014.</p>
 
-<p id="twelve">12. Harley, Aurora. "Icon Usability." Nielsen Norman Group. 2014.<br>
-<a href="https://www.nngroup.com/articles/icon-usability/">https://www.nngroup.com/articles/icon-usability/</a></p>
+<p id="twelve">12. Harley, Aurora. <a href="https://www.nngroup.com/articles/icon-usability/">"Icon Usability"</a>. Nielsen Norman Group. 2014.</p>
 
-<p id="thirteen">13. "Internationalization". The World Wide Web Consortium (W3C). <a href="https://www.w3.org/standards/webdesign/i18n">https://www.w3.org/standards/webdesign/i18n</a></p>
+<p id="thirteen">13. <a href="https://www.w3.org/standards/webdesign/i18n">"Internationalization"</a>. The World Wide Web Consortium (W3C).</p>
 
 </div>
 
@@ -271,32 +262,25 @@ There is a possibility though, that with increasing sophistication of voice and 
 
 Betro, Maria Carmela. “Hieroglyphics. The Writings of Ancient Egypt”. Abbeville Press Publishers. 1996.
 
-Blackwell, Allen. "The Encyclopedia of Human-Computer Interaction, 2nd Ed.". Chapter 5.6 - Visual Representation - Icons and Symbols. Interaction Design Foundation<br>
-<a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation">https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation</a>
+Blackwell, Allen. <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation">"The Encyclopedia of Human-Computer Interaction, 2nd Ed."</a>. Chapter 5.6 - Visual Representation - Icons and Symbols. Interaction Design Foundation
 
-Fessenden, Therese. "Scrolling and Attention". Nielsen Norman Group. 2018.<br>
-<a href="https://www.nngroup.com/articles/scrolling-and-attention/">https://www.nngroup.com/articles/scrolling-and-attention/</a>
+Fessenden, Therese. <a href="https://www.nngroup.com/articles/scrolling-and-attention/">"Scrolling and Attention"</a>. Nielsen Norman Group. 2018.
 
-Harley, Aurora. "Icon Usability." Nielsen Norman Group. 2014.<br>
-<a href="https://www.nngroup.com/articles/icon-usability/">https://www.nngroup.com/articles/icon-usability/</a>
+Harley, Aurora. <a href="https://www.nngroup.com/articles/icon-usability/">"Icon Usability"</a>. Nielsen Norman Group. 2014.
 
 Heyer, Paul. Urquhart ,Peter. “Communication in History: Stone Age Symbols to Social Media”. 2018. Routledge; 7th edition
 
-Hazeez, Habdul. 2021. “Beyond the hashtag: Applying semiotics to web design”<br>
-<a href="https://blog.logrocket.com/beyond-the-hashtag-applying-semiotics-to-web-design/">https://blog.logrocket.com/beyond-the-hashtag-applying-semiotics-to-web-design/</a>
+Hazeez, Habdul. 2021. <a href="https://blog.logrocket.com/beyond-the-hashtag-applying-semiotics-to-web-design/">“Beyond the hashtag: Applying semiotics to web design”</a>
 
-Kindy, David. "How Susan Kare Designed User-Friendly Icons for the First Macintosh". Smithsonian Magazine. 2019.<br>
-<a href="https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/">https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/</a>
+Kindy, David. <a href="https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/">"How Susan Kare Designed User-Friendly Icons for the First Macintosh"</a>. Smithsonian Magazine. 2019.
 
-Rogers, Y. "Evaluating the Meaningfulness of Icon Sets to Represent Command Operations". In M. D. Harrison and A. F. Monk (eds), People and Computers: Designing for Usability II. HCI’86 Conference, Exeter. Cambridge, Cambridge University Press. 1986. 86-603 <a href="http://yvonnerogers.com/wp-content/uploads/2014/07/HCI.pdf">http://yvonnerogers.com/wp-content/uploads/2014/07/HCI.pdf</a>
+Rogers, Y. <a href="http://yvonnerogers.com/wp-content/uploads/2014/07/HCI.pdf">"Evaluating the Meaningfulness of Icon Sets to Represent Command Operations"</a>. In M. D. Harrison and A. F. Monk (eds), People and Computers: Designing for Usability II. HCI’86 Conference, Exeter. Cambridge, Cambridge University Press. 1986. 86-603
 
-Rogers, Y. "Icons at the interface: Their Usefulness". Interacting with Computers. 1989. 1,105-118.<br>
-<a href="http://yvonnerogers.com/wp-content/uploads/2014/07/Usefullness.pdf">http://yvonnerogers.com/wp-content/uploads/2014/07/Usefullness.pdf</a>
+Rogers, Y. <a href="http://yvonnerogers.com/wp-content/uploads/2014/07/Usefullness.pdf">"Icons at the interface: Their Usefulness"</a>. Interacting with Computers. 1989. 1,105-118.
 
 Schenkel, Wolfgang. "The Structure of Hieroglyphic Script." RAIN, no. 15 (1976): 4-7. <br>
 <a href="https://www.jstor.org/stable/3032609?seq=1">https://www.jstor.org/stable/3032609?seq=1</a>
 
-Schneider, Florian. 2013. “A Rough Guide to the Theory of Semiotics”<br>
-<a href="http://www.politicseastasia.com/studying/guide-to-the-theory-of-semiotics/">http://www.politicseastasia.com/studying/guide-to-the-theory-of-semiotics/</a>
+Schneider, Florian. <a href="http://www.politicseastasia.com/studying/guide-to-the-theory-of-semiotics/">“A Rough Guide to the Theory of Semiotics”</a>. 2013.
 
 </div>
