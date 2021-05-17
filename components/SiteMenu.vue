@@ -130,7 +130,6 @@ export default {
     z-index: 99;
     width: 0;
     box-shadow: 0px 3px 10px 3px rgb(0 0 0 / 25%);
-    height: 100%;
     overflow: hidden;
     @media screen and (min-width: 1025px) {
         top: 0;
