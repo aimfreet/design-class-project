@@ -134,11 +134,11 @@ In recent years, the more realistic icons of the early iPhone, are being replace
 
 Why are icons so prevalent in the digital space when their use is relatively limited elsewhere? Why use an icon when text is more explicit?
 
-In the early days of computing, icons were used to simulate an action that an office worker would be familiar with in real life, like storing files inside of a folder. A graphical interface that could be clicked on with a mouse, was easier than remembering a variety of text commands that the old terminals required. Thus there is less of a cognitive load on the part of the user and less of a requirement of specialized computing knowledge. [<a href="#nine">9</a>]
+In the early days of computing, icons were used to simulate an action that an office worker would be familiar with in real life, like storing files inside of a folder. A graphical interface that could be clicked on with a mouse, was easier than remembering a variety of text commands that the old terminals required. Thus, there is less of a cognitive load on the part of the user and less of a requirement of specialized computing knowledge. [<a href="#nine">9</a>]
 
 Today, there are many types of computer screens with different resolutions and many digital devices that vary in screen size. This presents a unique design challenge. While the height of any webpage is infinite, as well as the number of pages to a site, the design’s width is limited to the width of the device it is displayed on. The user’s attention is also a finite resource. Most analytical data and user studies reveal that user engagement drops off after the first 20% to 50% of the page. [<a href="#ten">10</a>]
 
-When icons are used effectively they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. It is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in <a href="https://graphicmint.com/design-reading-patterns/">typical user scanning patterns</a>.
+When icons are used effectively, they have the ability to solve these challenges. Icons can be easily recognizable. When common icons are used, users instantly recognize them and understand the actions or information that they should contain. This can help with navigation and tasks. It is particularly powerful if the icons are placed in expected areas of a site or application, or are placed in <a href="https://graphicmint.com/design-reading-patterns/">typical user scanning patterns</a>.
 
 <div class="flex flex-column flex-row-md" style="max-width: 800px; margin: 0 auto;">
     <div class="flex-grow-1 margin-bottom-6">
@@ -159,7 +159,7 @@ Icons can also save space. An icon will take up less valuable real estate than t
 
 Many icons are also universal. Images like a house or an envelope are recognizable all over the world, which can help with communicating to users regardless of the language they speak or their level of literacy. I have often observed small children, including my own son, easily navigate a mobile device, purely by tapping on icons, long before they were able to read.
 
-Lastly, icons can provide additional context to text. Specialized icons, known as emojis or emotion icons, can be helpful in person to person text communication where tone of voice is missing. Emojis are generally used in social media applications, but they have been an <a href="https://www.campaignmonitor.com/blog/email-marketing/the-real-scoop-on-email-emoji-in-subject-lines/" target="_blank">effective tool for email marketing</a>, where companies are trying to capture a user's attention.
+Lastly, icons can provide additional context to text. Specialized icons, known as emojis or emotion icons, can be helpful in person-to-person text communication where tone of voice is missing. Emojis are generally used in social media applications, but they have been an <a href="https://www.campaignmonitor.com/blog/email-marketing/the-real-scoop-on-email-emoji-in-subject-lines/" target="_blank">effective tool for email marketing</a>, where companies are trying to capture a user's attention.
 
 <figure class="article-img-center margin-y-6">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/emoji_bubble.png" alt="Emoji Bubble" />
