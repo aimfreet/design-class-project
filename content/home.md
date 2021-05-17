@@ -209,7 +209,7 @@ Icons may also be further simplified and abstracted for use on small devices lik
 
 <figure class="article-img-center margin-y-6">
     <img src="https://tankgirl-storage.s3.amazonaws.com/codepen-images/hamburg-meatball.svg" alt="Hamburger Icon, Meatball and Kebab" style="max-width: 250px; width:100%" />
-    <p class="article-img-text text-align-center" style="max-width: 550px; width:100%">The menu icon, also known as the "hamburger", has been simplied to dots in either horizontal or vertical orientation to access menus in smaller areas.</p>
+    <p class="article-img-text text-align-center" style="max-width: 550px; width:100%">The menu icon, also known as the "hamburger", has been simplified to dots in either horizontal or vertical orientation to access menus in smaller areas.</p>
 </figure>
 
 There is a possibility though, that with increasing sophistication of voice and image recognition technologies that the devices we use today may be replaced with ones that rely more on verbal commands and automatic responses to movement. This may render icons antiquated and obsolete like the images carved into the tombs of long dead kings.
