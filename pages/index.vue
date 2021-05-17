@@ -28,6 +28,8 @@ export default {
     background-color: #fff;
     margin-top: calc(90vh);
     padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
     @media screen and (min-width: 1024px) {
       margin-top: calc(100vh - 100px);
       padding: 3.5rem 2.5rem;
