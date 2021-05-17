@@ -69,7 +69,7 @@ export default {
         }
         &-label {
             text-transform: uppercase;
-            display: flex;
+            display: none;
             width: 0;
             height: 0;
             overflow: hidden;
@@ -77,6 +77,7 @@ export default {
                 width: auto;
                 height: auto;
                 margin-left: 1rem;
+                display: flex;
             }
         }
     }
